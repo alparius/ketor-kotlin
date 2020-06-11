@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">kotlinKetor</string>
+    <string name="food_name">Food name</string>
+    <string name="level_colon">Level:</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="kcal_colon">Kcal:</string>
+    <string name="fats_colon">Fats:</string>
+    <string name="carbs_colon">Carbs:</string>
+    <string name="protein_colon">Protein:</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title</string>
+    <string name="add">Add</string>
+    <string name="refresh">Refresh</string>
+    <string name="text_or_content">Text or Content</string>
+    <string name="info_string">The ketogenic diet is a very low-carb, high-fat diet that shares many similarities with the Atkins and low-carb diets.\n\nIt involves drastically reducing carbohydrate intake and replacing it with fat. This reduction in carbs puts your body into a metabolic state called ketosis.\n\nWhen this happens, your body becomes incredibly efficient at burning fat for energy. It also turns fat into ketones in the liver, which can supply energy for the brain.\n\nKetogenic diets can cause massive reductions in blood sugar and insulin levels. This, along with the increased ketones, has numerous health benefits.</string>
+</resources>

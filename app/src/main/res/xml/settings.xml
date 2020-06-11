@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="app settings">
+
+        <EditTextPreference
+            app:dialogTitle="app name"
+            app:key="appname"
+            app:title="app name"
+            app:useSimpleSummaryProvider="true" />
+
+        <SwitchPreferenceCompat
+            app:key="apptheme"
+            app:summary="choose between good and ppor visibility"
+            app:title="toggle theme" />
+
+        <Preference
+            app:enableCopying="true"
+            app:key="email"
+            app:selectable="false"
+            app:summary="csekealpar12@gmail.com"
+            app:title="my email" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
